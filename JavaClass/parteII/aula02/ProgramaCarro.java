@@ -1,4 +1,5 @@
 package JavaClass.parteII.aula02;
+//na linha de cima: é o pacote, é o namespace --> FQCN - fully qualificaded class name
 //classe main, é a classe principal, e vai USAR a classe Carro
 
 public class ProgramaCarro {
@@ -12,6 +13,7 @@ public class ProgramaCarro {
 
         //usando os objetos --> utilizamos os métodos
         //ver as informações dos carros
+
         //ver as informações do Fusca
         System.out.println("\n --- Ações do Fusca ---");
         meuFusca.mostrarInformacoes();
@@ -27,6 +29,8 @@ public class ProgramaCarro {
         minhaFerrari.mostrarInformacoes();
 
         System.out.println("\n Fim do programa!");
+
+
 
 
     }
