@@ -1,5 +1,6 @@
 package JavaClass.parteII.aula04.enums;
-
+//Enum é um tipo de dado especial que permite a uma variável ser
+//um conjunto de constantes
 enum TipoCombustivel {
     GASOLINA("Gasolina Comum"),
     DIESEL("Diesel S10"),

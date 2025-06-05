@@ -15,7 +15,7 @@ public class Garagem {
         meuCarro.exibirDetalhes();
         meuCarro.abastecer();
         meuCarro.ligarArCondicionado();
-        System.out.println("Combustível do Corolla: " + meuCarro.getCombustivel()); //acessando o enum
+        System.out.println("Combustível da Ferrari: " + meuCarro.getCombustivel()); //acessando o enum
         System.out.println();
 
         //criando outro carro, elétrico
