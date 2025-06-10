@@ -1,4 +1,4 @@
-package parteTres.collections.arraylist.simples;
+package JavaClass.parteIII.aula06.collections.arraylist.simples;
 import java.util.ArrayList;
 import java.util.Collections;
 

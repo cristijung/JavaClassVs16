@@ -1,4 +1,4 @@
-package parteTres.collections.arraylist;
+package JavaClass.parteIII.aula06.collections.arraylist;
 
 import java.util.ArrayList;
 

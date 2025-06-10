@@ -1,4 +1,4 @@
-package parteTres.collections.hasmap;
+package JavaClass.parteIII.aula06.collections.hasmap;
 
 import java.util.Objects;
 

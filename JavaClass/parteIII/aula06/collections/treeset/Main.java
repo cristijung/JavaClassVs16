@@ -1,4 +1,4 @@
-package parteTres.collections.treeset;
+package JavaClass.parteIII.aula06.collections.treeset;
 
 import java.util.Scanner;
 import java.util.TreeSet;

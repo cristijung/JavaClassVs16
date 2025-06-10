@@ -1,4 +1,4 @@
-package parteTres.collections.linkedlist;
+package JavaClass.parteIII.aula06.collections.linkedlist;
 
 import java.util.Objects;
 

@@ -1,4 +1,4 @@
-package parteTres.collections.hashset;
+package JavaClass.parteIII.aula06.collections.hashset;
 
 import java.util.HashSet;
 import java.util.Set;

@@ -1,4 +1,4 @@
-package parteTres.collections.treemap;
+package JavaClass.parteIII.aula06.collections.treemap;
 
 import java.util.Map;
 import java.util.Scanner;
